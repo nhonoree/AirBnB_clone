@@ -1,0 +1,12 @@
+.locations,
+.amenities {
+  width: 25%;
+  border-right: 1px solid #DDDDDD;
+}
+
+button {
+  background-color: #FF5A5F;
+  color: #FFFFFF;
+  height: 48px;
+  width: 20%;
+}

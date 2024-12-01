@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .places {
+        flex-direction: column;
+    }
+
+    article {
+        flex: 1 1 100%;
+    }
+}
